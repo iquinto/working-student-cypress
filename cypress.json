@@ -1,0 +1,11 @@
+{
+  "env": {
+    "BASE_URL":"http://localhost:8080",
+    "TEST_EMPLOYER":"test_employer1",
+    "TEST_STUDENT":"test_student1",
+    "TEST_PASSWORD":"secret_pass",
+    "chromeWebSecurity": false
+  }
+
+
+}
