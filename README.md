@@ -12,6 +12,9 @@
 * Using the incorporated terminal run ```npm install``` to download and install dependencies. It could be possible that the following line must executed if 
 
 ## Test execution
-* Download or clone the following repository
+* 
+```
+npm run cy:open
 
+```
  
